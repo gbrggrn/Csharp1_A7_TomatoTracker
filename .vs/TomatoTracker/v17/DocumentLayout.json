@@ -1,37 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gusta\\source\\repos\\TomatoTracker\\",
+  "WorkspaceRootPath": "C:\\Users\\gusta\\source\\repos\\C#\\MAU_C#\\C#1\\C#1_A7_TomatoTracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E36644F4-4F97-435F-9CA3-B950F4A43F14}|TomatoTracker\\TomatoTracker.csproj|c:\\users\\gusta\\source\\repos\\tomatotracker\\tomatotracker\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "AbsoluteMoniker": "D:0:0:{E36644F4-4F97-435F-9CA3-B950F4A43F14}|TomatoTracker\\TomatoTracker.csproj|c:\\users\\gusta\\source\\repos\\c#\\mau_c#\\c#1\\c#1_a7_tomatotracker\\tomatotracker\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E36644F4-4F97-435F-9CA3-B950F4A43F14}|TomatoTracker\\TomatoTracker.csproj|solutionrelative:tomatotracker\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E36644F4-4F97-435F-9CA3-B950F4A43F14}|TomatoTracker\\TomatoTracker.csproj|c:\\users\\gusta\\source\\repos\\c#\\mau_c#\\c#1\\c#1_a7_tomatotracker\\tomatotracker\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
       "RelativeMoniker": "D:0:0:{E36644F4-4F97-435F-9CA3-B950F4A43F14}|TomatoTracker\\TomatoTracker.csproj|solutionrelative:tomatotracker\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E36644F4-4F97-435F-9CA3-B950F4A43F14}|TomatoTracker\\TomatoTracker.csproj|c:\\users\\gusta\\source\\repos\\tomatotracker\\tomatotracker\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{E36644F4-4F97-435F-9CA3-B950F4A43F14}|TomatoTracker\\TomatoTracker.csproj|c:\\users\\gusta\\source\\repos\\c#\\mau_c#\\c#1\\c#1_a7_tomatotracker\\tomatotracker\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E36644F4-4F97-435F-9CA3-B950F4A43F14}|TomatoTracker\\TomatoTracker.csproj|solutionrelative:tomatotracker\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E36644F4-4F97-435F-9CA3-B950F4A43F14}|TomatoTracker\\TomatoTracker.csproj|c:\\users\\gusta\\source\\repos\\tomatotracker\\tomatotracker\\tomatomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E36644F4-4F97-435F-9CA3-B950F4A43F14}|TomatoTracker\\TomatoTracker.csproj|c:\\users\\gusta\\source\\repos\\c#\\mau_c#\\c#1\\c#1_a7_tomatotracker\\tomatotracker\\tomatomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E36644F4-4F97-435F-9CA3-B950F4A43F14}|TomatoTracker\\TomatoTracker.csproj|solutionrelative:tomatotracker\\tomatomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E36644F4-4F97-435F-9CA3-B950F4A43F14}|TomatoTracker\\TomatoTracker.csproj|c:\\users\\gusta\\source\\repos\\tomatotracker\\tomatotracker\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E36644F4-4F97-435F-9CA3-B950F4A43F14}|TomatoTracker\\TomatoTracker.csproj|c:\\users\\gusta\\source\\repos\\c#\\mau_c#\\c#1\\c#1_a7_tomatotracker\\tomatotracker\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E36644F4-4F97-435F-9CA3-B950F4A43F14}|TomatoTracker\\TomatoTracker.csproj|solutionrelative:tomatotracker\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E36644F4-4F97-435F-9CA3-B950F4A43F14}|TomatoTracker\\TomatoTracker.csproj|c:\\users\\gusta\\source\\repos\\tomatotracker\\tomatotracker\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{E36644F4-4F97-435F-9CA3-B950F4A43F14}|TomatoTracker\\TomatoTracker.csproj|c:\\users\\gusta\\source\\repos\\c#\\mau_c#\\c#1\\c#1_a7_tomatotracker\\tomatotracker\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E36644F4-4F97-435F-9CA3-B950F4A43F14}|TomatoTracker\\TomatoTracker.csproj|solutionrelative:tomatotracker\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gusta\\source\\repos\\TomatoTracker\\TomatoTracker\\obj\\Debug\\net8.0-windows\\TomatoTracker_p33anz51_wpftmp.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gusta\\source\\repos\\C#\\MAU_C#\\C#1\\C#1_A7_TomatoTracker\\TomatoTracker\\obj\\Debug\\net8.0-windows\\TomatoTracker_p33anz51_wpftmp.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TomatoTracker\\obj\\Debug\\net8.0-windows\\TomatoTracker_p33anz51_wpftmp.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gusta\\source\\repos\\TomatoTracker\\TomatoTracker\\obj\\Debug\\net8.0-windows\\TomatoTracker_12rd1gxr_wpftmp.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gusta\\source\\repos\\C#\\MAU_C#\\C#1\\C#1_A7_TomatoTracker\\TomatoTracker\\obj\\Debug\\net8.0-windows\\TomatoTracker_12rd1gxr_wpftmp.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TomatoTracker\\obj\\Debug\\net8.0-windows\\TomatoTracker_12rd1gxr_wpftmp.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E36644F4-4F97-435F-9CA3-B950F4A43F14}|TomatoTracker\\TomatoTracker.csproj|c:\\users\\gusta\\source\\repos\\tomatotracker\\tomatotracker\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E36644F4-4F97-435F-9CA3-B950F4A43F14}|TomatoTracker\\TomatoTracker.csproj|c:\\users\\gusta\\source\\repos\\c#\\mau_c#\\c#1\\c#1_a7_tomatotracker\\tomatotracker\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E36644F4-4F97-435F-9CA3-B950F4A43F14}|TomatoTracker\\TomatoTracker.csproj|solutionrelative:tomatotracker\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,15 +46,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Window1.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\TomatoTracker\\TomatoTracker\\Window1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\C#\\MAU_C#\\C#1\\C#1_A7_TomatoTracker\\TomatoTracker\\Window1.xaml.cs",
               "RelativeDocumentMoniker": "TomatoTracker\\Window1.xaml.cs",
-              "ToolTip": "C:\\Users\\gusta\\source\\repos\\TomatoTracker\\TomatoTracker\\Window1.xaml.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\C#\\MAU_C#\\C#1\\C#1_A7_TomatoTracker\\TomatoTracker\\Window1.xaml.cs",
               "RelativeToolTip": "TomatoTracker\\Window1.xaml.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAgwKcAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -59,38 +63,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\TomatoTracker\\TomatoTracker\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\C#\\MAU_C#\\C#1\\C#1_A7_TomatoTracker\\TomatoTracker\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "TomatoTracker\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\gusta\\source\\repos\\TomatoTracker\\TomatoTracker\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\C#\\MAU_C#\\C#1\\C#1_A7_TomatoTracker\\TomatoTracker\\MainWindow.xaml.cs",
               "RelativeToolTip": "TomatoTracker\\MainWindow.xaml.cs",
               "ViewState": "AgIAACYBAAAAAAAAAAAkwGUBAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-31T10:23:51.512Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\TomatoTracker\\TomatoTracker\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\C#\\MAU_C#\\C#1\\C#1_A7_TomatoTracker\\TomatoTracker\\MainWindow.xaml",
               "RelativeDocumentMoniker": "TomatoTracker\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\gusta\\source\\repos\\TomatoTracker\\TomatoTracker\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\C#\\MAU_C#\\C#1\\C#1_A7_TomatoTracker\\TomatoTracker\\MainWindow.xaml",
               "RelativeToolTip": "TomatoTracker\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-12-27T10:47:28.436Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Window1.xaml",
-              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\TomatoTracker\\TomatoTracker\\Window1.xaml",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\C#\\MAU_C#\\C#1\\C#1_A7_TomatoTracker\\TomatoTracker\\Window1.xaml",
               "RelativeDocumentMoniker": "TomatoTracker\\Window1.xaml",
-              "ToolTip": "C:\\Users\\gusta\\source\\repos\\TomatoTracker\\TomatoTracker\\Window1.xaml",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\C#\\MAU_C#\\C#1\\C#1_A7_TomatoTracker\\TomatoTracker\\Window1.xaml",
               "RelativeToolTip": "TomatoTracker\\Window1.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-12-30T13:04:35.587Z",
@@ -98,11 +100,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\C#\\MAU_C#\\C#1\\C#1_A7_TomatoTracker\\TomatoTracker\\Enums.cs",
+              "RelativeDocumentMoniker": "TomatoTracker\\Enums.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\C#\\MAU_C#\\C#1\\C#1_A7_TomatoTracker\\TomatoTracker\\Enums.cs",
+              "RelativeToolTip": "TomatoTracker\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:13:27.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "TomatoManager.cs",
-              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\TomatoTracker\\TomatoTracker\\TomatoManager.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\C#\\MAU_C#\\C#1\\C#1_A7_TomatoTracker\\TomatoTracker\\TomatoManager.cs",
               "RelativeDocumentMoniker": "TomatoTracker\\TomatoManager.cs",
-              "ToolTip": "C:\\Users\\gusta\\source\\repos\\TomatoTracker\\TomatoTracker\\TomatoManager.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\C#\\MAU_C#\\C#1\\C#1_A7_TomatoTracker\\TomatoTracker\\TomatoManager.cs",
               "RelativeToolTip": "TomatoTracker\\TomatoManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -110,11 +125,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\TomatoTracker\\TomatoTracker\\AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\C#\\MAU_C#\\C#1\\C#1_A7_TomatoTracker\\TomatoTracker\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "TomatoTracker\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\gusta\\source\\repos\\TomatoTracker\\TomatoTracker\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\C#\\MAU_C#\\C#1\\C#1_A7_TomatoTracker\\TomatoTracker\\AssemblyInfo.cs",
               "RelativeToolTip": "TomatoTracker\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -122,11 +137,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "TomatoTracker_p33anz51_wpftmp.AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\TomatoTracker\\TomatoTracker\\obj\\Debug\\net8.0-windows\\TomatoTracker_p33anz51_wpftmp.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\C#\\MAU_C#\\C#1\\C#1_A7_TomatoTracker\\TomatoTracker\\obj\\Debug\\net8.0-windows\\TomatoTracker_p33anz51_wpftmp.AssemblyInfo.cs",
               "RelativeDocumentMoniker": "TomatoTracker\\obj\\Debug\\net8.0-windows\\TomatoTracker_p33anz51_wpftmp.AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\gusta\\source\\repos\\TomatoTracker\\TomatoTracker\\obj\\Debug\\net8.0-windows\\TomatoTracker_p33anz51_wpftmp.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\C#\\MAU_C#\\C#1\\C#1_A7_TomatoTracker\\TomatoTracker\\obj\\Debug\\net8.0-windows\\TomatoTracker_p33anz51_wpftmp.AssemblyInfo.cs",
               "RelativeToolTip": "TomatoTracker\\obj\\Debug\\net8.0-windows\\TomatoTracker_p33anz51_wpftmp.AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -134,11 +149,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "TomatoTracker_12rd1gxr_wpftmp.AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\TomatoTracker\\TomatoTracker\\obj\\Debug\\net8.0-windows\\TomatoTracker_12rd1gxr_wpftmp.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\C#\\MAU_C#\\C#1\\C#1_A7_TomatoTracker\\TomatoTracker\\obj\\Debug\\net8.0-windows\\TomatoTracker_12rd1gxr_wpftmp.AssemblyInfo.cs",
               "RelativeDocumentMoniker": "TomatoTracker\\obj\\Debug\\net8.0-windows\\TomatoTracker_12rd1gxr_wpftmp.AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\gusta\\source\\repos\\TomatoTracker\\TomatoTracker\\obj\\Debug\\net8.0-windows\\TomatoTracker_12rd1gxr_wpftmp.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\C#\\MAU_C#\\C#1\\C#1_A7_TomatoTracker\\TomatoTracker\\obj\\Debug\\net8.0-windows\\TomatoTracker_12rd1gxr_wpftmp.AssemblyInfo.cs",
               "RelativeToolTip": "TomatoTracker\\obj\\Debug\\net8.0-windows\\TomatoTracker_12rd1gxr_wpftmp.AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

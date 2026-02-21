@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TomatoTracker
-build_property.ProjectDir = C:\Users\gusta\source\repos\C#\MAU_C#\C#1\C#1_A7_TomatoTracker\TomatoTracker\
+build_property.ProjectDir = C:\Users\gusta\source\repos\C#\MAU_C#1\C#1_A7_TomatoTracker\TomatoTracker\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
